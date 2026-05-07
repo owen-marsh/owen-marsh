@@ -5,7 +5,7 @@
 **Targeting:** Remote data / BI / supply chain analyst roles in pharma
 -
 **Location:** Beaumont, TX
-
+-
 ---
 
 ## Skills
