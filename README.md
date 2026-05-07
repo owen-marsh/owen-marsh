@@ -1,8 +1,10 @@
 # Hi, I'm Owen Marsh
 
 **Currently:** Supply Chain Data Integrity Specialist @ CHRISTUS Health
--**Targeting:** Remote data / BI / supply chain analyst roles in pharma
--**Location:** Beaumont, TX
+-
+**Targeting:** Remote data / BI / supply chain analyst roles in pharma
+-
+**Location:** Beaumont, TX
 
 ---
 
