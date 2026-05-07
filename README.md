@@ -9,14 +9,14 @@
 ## Skills
 
 **Languages:** SQL · Python · C# · HTML
---
+-
 **Tools:** Power BI · Tableau · Microsoft Excel · Azure
---
+-
 **Platforms:** MySQL · Infor ERP · ASP.NET
---
+-
 **Focus areas:** Data integrity · Supply chain analytics
                · ERP systems · Database design
---
+-
 [![Skills](https://skillicons.dev/icons?i=python,mysql,azure,html,cs&theme=light)](https://skillicons.dev)
 ---
 
